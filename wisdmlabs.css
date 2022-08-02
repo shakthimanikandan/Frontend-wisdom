@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+}
+
+.contact i{
+    padding: 10px;
+    margin: 10px;
+}
+.cont{
+    background-color: brown;
+    color: #fff;
+    border: none;
+}
+.icon{
+    color: black;
+}
+.navbar{
+    background-color: #fff !important;
+}
+.head{
+    background-color:#F7F7F7;	
+}
+h1{
+    font-weight: 800;
+    font-family: 'Open Sans';
+}
+.img{
+    float: right;
+}
+#div2{
+    
+    
+    padding-top: 20px;
+}
+#div3{
+    
+    
+    padding-top: 20px;
+}
+#div4{
+    
+    padding: 20px;
+}
+
+#div4 .row{
+    margin: 10px;
+    margin-top: 20px;
+}
+#div5{
+    margin-top: 50px;
+}
+#div6{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.card{
+    margin:20px;
+    padding-top: -10px;
+    padding: -30px !important;
+    
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+a:hover{
+    color: brown;
+}
+
+
+.show button{
+    background: #fff;
+    border-color: brown;
+    color:brown;
+    margin-bottom: 20px;
+}
+span button{
+    background: #fff;
+    border-color: brown;
+    color:brown;
+    margin-bottom: 20px;
+}
+
+.footer{
+    background-color:hsla(0, 36%, 96%, 0.911);
+}
+.footer button{
+    background-color: brown;
+    border: brown;
+    color: #fff;
+    margin-bottom: 20px;
+   
+}
+.footer button:hover{
+    color:#fff
+}
+.cpmy img{
+    padding: 10px;
+}
+.owl-dot.active span{
+    background-color: brown !important;
+}
+
+.owl-carousel .owl-next,
+.owl-carousel .owl-prev{
+    color:brown !important;
+    font-size: 50px !important;
+    background-color: transparent !important;
+    position:absolute;
+    top:30%;
+}
+.owl-carousel .owl-next{
+    right: 0;
+}
+.owl-carousel .owl-prev{
+    left:0;
+}
+
+.owl-carousel .owl-next.active{
+    color:brown !important;
+}
+#group1 .item{
+    border: 1px solid black;
+}
+.caro{
+    border:1px solid red;
+    position:absolute;
+}
+.word{
+    float: right;
+}
+.caro1{
+    border: 1px solid black;
+}
+#carouselIndicators button {
+    color: brown !important;
+}
+.owl-carousel .c1{
+   
+    padding: 20px;
+    margin: 20px;
+  
+}
+#div7{
+    margin-top: 30px;
+}
+.text1{
+    font-size: 12px;
+}
+
+@media screen and (max-width:600px) {
+    .head3{
+        padding-top: 150px;
+        }
+    
+}
+.head3{
+    margin-top: -150px;
+    padding-left: 50px;
+}
+.head1{
+    padding-top: 20px;
+    padding-left: 50px;
+}
